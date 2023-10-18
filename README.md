@@ -11,5 +11,5 @@ After baseline correction and removal of the spikes, the Raman spectrum would lo
 Furthermore after normalizing the spectrum would look like below. 
 ![download (2)](https://github.com/ArezooArdekani/Raman_spcetroscopy_baseline_correction/assets/94130390/aaa2af8b-9d49-4e50-8f28-ef15b82e27b1)
 
-The steps can be adjusted and applied in a different order as needed. The in-depth explanation is given 
+The steps can be adjusted and applied in a different order as needed. The in-depth explanation is given in Denoising_simplified.ipynb 
 
