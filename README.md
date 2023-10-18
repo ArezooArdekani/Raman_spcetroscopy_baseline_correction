@@ -9,3 +9,5 @@ After baseline correction and removal of the spikes, the Raman spectrum would lo
 ![download (1)](https://github.com/ArezooArdekani/Raman_spcetroscopy_baseline_correction/assets/94130390/73b84706-0768-401b-925e-8dfe59c9eddd)
 
 Furthermore after normalizing the spectrum would look like below. 
+![download (2)](https://github.com/ArezooArdekani/Raman_spcetroscopy_baseline_correction/assets/94130390/aaa2af8b-9d49-4e50-8f28-ef15b82e27b1)
+
